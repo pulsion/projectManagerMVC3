@@ -1,0 +1,91 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:HomeController.cs" caret="331" fromTop="7" />
+      <File id="CCDBA2F9-FE7F-4291-94BE-E352F6F0A188/d:Controllers/f:HomeControllerTest.cs" caret="678" fromTop="7" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Views/d:Staff/f:Index.cshtml" caret="57" fromTop="4" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Views/d:Shared/f:_Layout.cshtml" caret="703" fromTop="23" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/f:Web.config" caret="0" fromTop="0" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffController.cs" caret="0" fromTop="0" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Views/d:StaffHolidays/f:Edit.cshtml" caret="61" fromTop="1" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Views/d:StaffHolidays/f:Index.cshtml" caret="7" fromTop="0" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Views/d:StaffHolidays/f:Delete.cshtml" caret="48" fromTop="0" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Views/d:StaffHolidays/f:_CreateOrEdit.cshtml" caret="48" fromTop="0" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Views/d:StaffHolidays/f:Details.cshtml" caret="143" fromTop="9" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Models/f:projectManager.cs" caret="236" fromTop="9" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="305" fromTop="0" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Views/d:StaffHolidays/f:Create.cshtml" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Views/d:StaffHolidays/f:Edit.cshtml" caret="61" fromTop="1" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Views/d:StaffHolidays/f:Details.cshtml" caret="48" fromTop="0" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Views/d:StaffHolidays/f:Delete.cshtml" caret="48" fromTop="0" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Views/d:StaffHolidays/f:Create.cshtml" caret="48" fromTop="0" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Views/d:StaffHolidays/f:_CreateOrEdit.cshtml" caret="48" fromTop="0" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="2291" fromTop="38" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="2291" fromTop="48" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Views/d:StaffHolidays/f:Details.cshtml" caret="441" fromTop="17" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Views/d:StaffHolidays/f:Details.cshtml" caret="202" fromTop="11" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Views/d:StaffHolidays/f:Details.cshtml" caret="586" fromTop="19" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Views/d:StaffHolidays/f:Details.cshtml" caret="143" fromTop="9" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="2291" fromTop="39" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="2291" fromTop="48" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="2291" fromTop="10" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="2291" fromTop="44" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="598" fromTop="25" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="2247" fromTop="38" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="808" fromTop="33" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="1713" fromTop="40" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="2415" fromTop="37" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="2840" fromTop="41" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="2767" fromTop="30" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="1963" fromTop="18" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="2176" fromTop="23" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="1470" fromTop="23" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="1272" fromTop="17" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="1165" fromTop="22" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="1870" fromTop="32" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="1033" fromTop="22" />
+      <File id="FECCCCE2-C266-49E3-9896-5326210AF201/d:Controllers/f:StaffHolidaysController.cs" caret="305" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.7\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="2" />
+      <Item value="virtual" priority="0" />
+      <Item value="t_user`0" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="DbSet`0" priority="0" />
+      <Item value="t_staff_holiday`0" priority="0" />
+      <Item value="projectManager`0" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="projectManager" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="from" priority="0" />
+      <Item value="projManager" priority="0" />
+      <Item value="where" priority="0" />
+      <Item value="s" priority="1" />
+      <Item value="select" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:projectManagerMVC3.Models.projectManager">
+      <Item value="StaffHolidays" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

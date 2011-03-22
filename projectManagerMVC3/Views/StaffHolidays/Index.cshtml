@@ -1,0 +1,46 @@
+﻿@model IEnumerable<projectManagerMVC3.Models.t_staff_holiday>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Staff Holidays</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            User Id
+        </th>
+        <th>
+            Holiday Start Date
+        </th>
+        <th>
+            Holiday End Date
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+       
+        <td>
+			@item.userid
+        </td>
+        <td>
+			@String.Format("{0:g}", item.startdate)
+        </td>
+        <td>
+			@String.Format("{0:g}", item.enddate)
+        </td>
+         <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>
