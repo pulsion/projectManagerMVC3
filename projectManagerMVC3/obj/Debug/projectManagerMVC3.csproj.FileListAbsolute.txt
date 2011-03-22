@@ -1,0 +1,5 @@
+C:\MVCWork\projectManagerMVC3\projectManagerMVC3\bin\projectManagerMVC3.dll
+C:\MVCWork\projectManagerMVC3\projectManagerMVC3\bin\projectManagerMVC3.pdb
+C:\MVCWork\projectManagerMVC3\projectManagerMVC3\obj\Debug\ResolveAssemblyReference.cache
+C:\MVCWork\projectManagerMVC3\projectManagerMVC3\obj\Debug\projectManagerMVC3.dll
+C:\MVCWork\projectManagerMVC3\projectManagerMVC3\obj\Debug\projectManagerMVC3.pdb

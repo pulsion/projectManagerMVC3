@@ -1,0 +1,8 @@
+C:\MVCWork\projectManagerMVC3\projectManagerMVC3.Tests\bin\Debug\projectManagerMVC3.Tests.dll.config
+C:\MVCWork\projectManagerMVC3\projectManagerMVC3.Tests\bin\Debug\projectManagerMVC3.Tests.dll
+C:\MVCWork\projectManagerMVC3\projectManagerMVC3.Tests\bin\Debug\projectManagerMVC3.Tests.pdb
+C:\MVCWork\projectManagerMVC3\projectManagerMVC3.Tests\bin\Debug\projectManagerMVC3.dll
+C:\MVCWork\projectManagerMVC3\projectManagerMVC3.Tests\bin\Debug\projectManagerMVC3.pdb
+C:\MVCWork\projectManagerMVC3\projectManagerMVC3.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\MVCWork\projectManagerMVC3\projectManagerMVC3.Tests\obj\Debug\projectManagerMVC3.Tests.dll
+C:\MVCWork\projectManagerMVC3\projectManagerMVC3.Tests\obj\Debug\projectManagerMVC3.Tests.pdb

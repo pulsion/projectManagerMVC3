@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projectManagerMVC3", "projectManagerMVC3\projectManagerMVC3.csproj", "{FECCCCE2-C266-49E3-9896-5326210AF201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projectManagerMVC3.Tests", "projectManagerMVC3.Tests\projectManagerMVC3.Tests.csproj", "{CCDBA2F9-FE7F-4291-94BE-E352F6F0A188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FECCCCE2-C266-49E3-9896-5326210AF201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECCCCE2-C266-49E3-9896-5326210AF201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECCCCE2-C266-49E3-9896-5326210AF201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECCCCE2-C266-49E3-9896-5326210AF201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCDBA2F9-FE7F-4291-94BE-E352F6F0A188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDBA2F9-FE7F-4291-94BE-E352F6F0A188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDBA2F9-FE7F-4291-94BE-E352F6F0A188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDBA2F9-FE7F-4291-94BE-E352F6F0A188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

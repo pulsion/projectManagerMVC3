@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="FECCCCE2-C266-49E3-9896-5326210AF201" ModuleId="projectManagerMVC3" />
+  <Module PersistentId="CCDBA2F9-FE7F-4291-94BE-E352F6F0A188" ModuleId="projectManagerMVC3.Tests" />
+</Modules>
